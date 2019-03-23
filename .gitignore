@@ -1,0 +1,11 @@
+**/Listings/
+**/Objects/
+**/*.uvgui.*
+**/*.LST
+**/*.OBJ
+**/*.hex
+**/*.lnp
+**/*.htm
+**/*.bak
+**/*.M51
+.vscode
